@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5dbe0b0-a6fb-4c1c-b285-e47830a62afd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GithubSearchApp.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/GithubSearchApp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="12" column="76" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace>name</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/redux/bigBasket/bigBasket.actions.js" />
+        <option value="$PROJECT_DIR$/src/components/product/ProductAdmin.js" />
+        <option value="$PROJECT_DIR$/src/components/product/UpdateProduct.js" />
+        <option value="$PROJECT_DIR$/server/models/User.js" />
+        <option value="$PROJECT_DIR$/server/server.js" />
+        <option value="$PROJECT_DIR$/server/.env" />
+        <option value="$PROJECT_DIR$/server/middlewares/authenticate.js" />
+        <option value="$PROJECT_DIR$/server/models/Event.js" />
+        <option value="$PROJECT_DIR$/src/events/free/Free.js" />
+        <option value="$PROJECT_DIR$/src/events/pro/Pro.js" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/redux/alert/alert.action.js" />
+        <option value="$PROJECT_DIR$/src/redux/alert/alert.reducer.js" />
+        <option value="$PROJECT_DIR$/src/users/register/Register.js" />
+        <option value="$PROJECT_DIR$/src/root/util/alert/Alert.js" />
+        <option value="$PROJECT_DIR$/src/util/userUtil.js" />
+        <option value="$PROJECT_DIR$/src/util/tockenUtil.js" />
+        <option value="$PROJECT_DIR$/src/redux/user/user.reducer.js" />
+        <option value="$PROJECT_DIR$/src/root/layout/navbar/Navbar.js" />
+        <option value="$PROJECT_DIR$/src/redux/rootReducer.js" />
+        <option value="$PROJECT_DIR$/server/router/eventsRouter.js" />
+        <option value="$PROJECT_DIR$/src/root/util/spinner/Spinner.js" />
+        <option value="$PROJECT_DIR$/src/redux/events/events.reducer.js" />
+        <option value="$PROJECT_DIR$/src/events/free/FreeEvents.js" />
+        <option value="$PROJECT_DIR$/src/events/pro/ProEvents.js" />
+        <option value="$PROJECT_DIR$/src/redux/events/events.action.js" />
+        <option value="$PROJECT_DIR$/src/util/privateRoot.js" />
+        <option value="$PROJECT_DIR$/src/users/login/Login.js" />
+        <option value="$PROJECT_DIR$/server/router/userRouter.js" />
+        <option value="$PROJECT_DIR$/src/redux/user/user.action.js" />
+        <option value="$PROJECT_DIR$/src/events/upload/UploadEvents.js" />
+        <option value="$PROJECT_DIR$/server/package.json" />
+        <option value="$PROJECT_DIR$/src/root/layout/home/Home.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/component/Home.js" />
+        <option value="$PROJECT_DIR$/src/component/layout/home/Home.js" />
+        <option value="$PROJECT_DIR$/src/component/contact/Contact.js" />
+        <option value="$PROJECT_DIR$/src/component/layout/navbar/Navbar.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/component/stocks/Stocks.js" />
+        <option value="$PROJECT_DIR$/src/component/layout/Navbar.js" />
+        <option value="$PROJECT_DIR$/src/component/about/About.js" />
+        <option value="$PROJECT_DIR$/src/component/layout/Home.js" />
+        <option value="$PROJECT_DIR$/src/component/employee/Employee.js" />
+        <option value="$PROJECT_DIR$/src/component/employee/EmployeeDetails.js" />
+        <option value="$PROJECT_DIR$/src/redux/githubProfile/githubSearch.reducer.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/GithubSearchApp.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1554" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="first-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../01_React_Bootstrap_website" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="E:\Workspace\React_is_Workspace\React-Basics-Module\first-app\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Workspace\React_is_Workspace\React-Basics-Module\first-app\src\component\layout\navbar" />
+      <recent name="E:\Workspace\React_is_Workspace\React-Basics-Module\first-app\src\component\layout\home" />
+      <recent name="E:\Workspace\React_is_Workspace\React-Basics-Module\first-app\src\redux\githubProfile" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Workspace\React_is_Workspace\React-Basics-Module\first-app\public" />
+      <recent name="E:\Workspace\React_is_Workspace\React-Basics-Module\first-app" />
+      <recent name="E:\Workspace\React_is_Workspace\React-Basics-Module\first-app\src\component\contact" />
+      <recent name="E:\Workspace\React_is_Workspace\React-Basics-Module\first-app\src\component\about" />
+      <recent name="E:\Workspace\React_is_Workspace\React-Basics-Module\first-app\src\component" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5dbe0b0-a6fb-4c1c-b285-e47830a62afd" name="Default" comment="" />
+      <created>1611923226000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611923226000</updated>
+      <workItem from="1611923234430" duration="1728000" />
+      <workItem from="1611938332984" duration="17768000" />
+      <workItem from="1612010196297" duration="914000" />
+      <workItem from="1612808446202" duration="776000" />
+      <workItem from="1614008077459" duration="27292000" />
+      <workItem from="1614140606538" duration="23703000" />
+      <workItem from="1615006250270" duration="11080000" />
+      <workItem from="1615297962081" duration="45000" />
+      <workItem from="1615298256711" duration="478000" />
+      <workItem from="1615298906039" duration="1937000" />
+      <workItem from="1615971119837" duration="27573000" />
+      <workItem from="1616094241034" duration="24321000" />
+      <workItem from="1616216068818" duration="6894000" />
+      <workItem from="1616261049166" duration="8081000" />
+      <workItem from="1616300316426" duration="13099000" />
+      <workItem from="1616388629543" duration="15486000" />
+      <workItem from="1616433093366" duration="20509000" />
+      <workItem from="1616522406168" duration="3055000" />
+      <workItem from="1616562322784" duration="20791000" />
+      <workItem from="1617351567427" duration="15999000" />
+      <workItem from="1617424532174" duration="28754000" />
+      <workItem from="1617517645185" duration="5059000" />
+      <workItem from="1617531794526" duration="11964000" />
+      <workItem from="1617737178286" duration="3092000" />
+      <workItem from="1617780274606" duration="598000" />
+      <workItem from="1617900730200" duration="5489000" />
+      <workItem from="1617919035344" duration="3037000" />
+      <workItem from="1617922638180" duration="533000" />
+      <workItem from="1617971177162" duration="316000" />
+      <workItem from="1619893001523" duration="2984000" />
+      <workItem from="1619927865667" duration="11239000" />
+      <workItem from="1620017682650" duration="24537000" />
+      <workItem from="1620107681536" duration="18716000" />
+      <workItem from="1620193797776" duration="4717000" />
+      <workItem from="1620216829876" duration="7037000" />
+      <workItem from="1620314961629" duration="7369000" />
+      <workItem from="1620338704504" duration="20638000" />
+      <workItem from="1620404658736" duration="9779000" />
+      <workItem from="1620449336285" duration="27597000" />
+      <workItem from="1620562392945" duration="7649000" />
+      <workItem from="1620731699496" duration="13693000" />
+      <workItem from="1620884683023" duration="33913000" />
+      <workItem from="1620971384517" duration="24588000" />
+      <workItem from="1621056371647" duration="23715000" />
+      <workItem from="1621097725824" duration="13073000" />
+      <workItem from="1621140245856" duration="13442000" />
+      <workItem from="1621169782512" duration="6115000" />
+      <workItem from="1621183061541" duration="5645000" />
+      <workItem from="1621229434870" duration="2922000" />
+      <workItem from="1621237650531" duration="11444000" />
+      <workItem from="1621267875510" duration="11602000" />
+      <workItem from="1621317328791" duration="28110000" />
+      <workItem from="1621407113814" duration="10604000" />
+      <workItem from="1621443461990" duration="12872000" />
+      <workItem from="1621486677649" duration="8555000" />
+      <workItem from="1621501556453" duration="5901000" />
+      <workItem from="1621519295563" duration="11992000" />
+      <workItem from="1623587502914" duration="2504000" />
+      <workItem from="1623662685158" duration="4304000" />
+      <workItem from="1623729341151" duration="4597000" />
+      <workItem from="1624363338281" duration="11189000" />
+      <workItem from="1624423681907" duration="5826000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="709239000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23727693" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32859176" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32859176" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.67948717" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32805756" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31658956" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32805756" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.53276354" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32859176" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32859176" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/product/ProductAdmin.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/product/UpdateProduct.js" />
+    <entry file="file://$PROJECT_DIR$/server/server.js" />
+    <entry file="file://$PROJECT_DIR$/server/middlewares/authenticate.js" />
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/alert/alert.reducer.js" />
+    <entry file="file://$PROJECT_DIR$/src/redux/alert/alert.action.js" />
+    <entry file="file://$PROJECT_DIR$/src/util/userUtil.js" />
+    <entry file="file://$PROJECT_DIR$/src/util/tockenUtil.js" />
+    <entry file="file://$PROJECT_DIR$/src/root/layout/navbar/Navbar.js" />
+    <entry file="file://$PROJECT_DIR$/server/models/Event.js" />
+    <entry file="file://$PROJECT_DIR$/src/root/util/spinner/Spinner.js" />
+    <entry file="file://$PROJECT_DIR$/server/router/eventsRouter.js" />
+    <entry file="file://$PROJECT_DIR$/src/events/free/FreeEvents.js" />
+    <entry file="file://$PROJECT_DIR$/src/events/pro/ProEvents.js" />
+    <entry file="file://$PROJECT_DIR$/src/redux/events/events.reducer.js" />
+    <entry file="file://$PROJECT_DIR$/src/util/privateRoot.js" />
+    <entry file="file://$PROJECT_DIR$/server/models/User.js" />
+    <entry file="file://$PROJECT_DIR$/src/users/register/Register.js" />
+    <entry file="file://$PROJECT_DIR$/src/users/login/Login.js" />
+    <entry file="file://$PROJECT_DIR$/src/events/upload/UploadEvents.js" />
+    <entry file="file://$PROJECT_DIR$/server/router/userRouter.js" />
+    <entry file="file://$PROJECT_DIR$/src/redux/user/user.reducer.js" />
+    <entry file="file://$PROJECT_DIR$/src/redux/events/events.action.js" />
+    <entry file="file://$PROJECT_DIR$/src/redux/user/user.action.js" />
+    <entry file="file://$PROJECT_DIR$/server/package.json" />
+    <entry file="file://$PROJECT_DIR$/src/root/util/alert/Alert.js" />
+    <entry file="file://$PROJECT_DIR$/server/.env" />
+    <entry file="file://$PROJECT_DIR$/src/root/layout/home/Home.js" />
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/layout/home/Home.js" />
+    <entry file="file://$PROJECT_DIR$/src/component/contact/Contact.js" />
+    <entry file="file://$PROJECT_DIR$/src/component/layout/navbar/Navbar.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/menu/Navbarmenu.js" />
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/stocks/Stocks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/layout/Navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/layout/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/about/About.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/employee/Employee.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/employee/EmployeeDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/githubProfile/githubSearch.reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/rootReducer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/githubProfile/githubSearch.action.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="76" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/GithubSearchApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

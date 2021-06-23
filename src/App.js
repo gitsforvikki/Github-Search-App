@@ -1,25 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import "./App.css"
+import {Provider} from 'react-redux';
+import {store} from './redux/store'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+import GithubSearchApp from "./components/GithubSearchApp";
+
+
+let App = ()=>{
+
+    return (
+        <React.Fragment>
+            <nav className="navbar navbar-expand-sm navbar-dark bg-secondary text-white">
+                <div className="container">
+                    <a href="#" className="navbar-brand">GitHub Profile Search  Application</a>
+                </div>
+            </nav>
+
+
+
+            <Provider store={store}>
+                <GithubSearchApp/>
+            </Provider>
+
+
+
+        </React.Fragment>
+    );
+};
+
 
 export default App;
